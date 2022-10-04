@@ -1,0 +1,3 @@
+[submodule "Chess/vendor/glm"]
+	path = Chess/vendor/glm
+	url = https://github.com/dct27300923/glm.git
